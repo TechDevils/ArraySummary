@@ -2,7 +2,7 @@ var summary = require("summary");
 
 function ArraySummary() {
     function processData(name, numbers) {
-        var data = summary(numbers, true);
+        var data = summary(numbers);
         let output = {
             name: name,
             min: undefined,
