@@ -1,0 +1,21 @@
+{
+  "name": "arraysummary",
+  "version": "01.00.00",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "summary",
+    "array",
+    "object",
+    "single",
+    "output"
+  ],
+  "author": "Andrew Chadwick",
+  "license": "ISC",
+  "dependencies": {
+    "summary": "^2.1.0"
+  }
+}
